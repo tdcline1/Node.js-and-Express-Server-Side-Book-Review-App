@@ -1,3 +1,11 @@
-server-side online book review application
-integrated with a REST API using JWT based session level authentication
-tested the built application using Promises callbacks or Async-Await functions
+# 📚 Server-Side Online Book Review Application  
+
+A backend-driven book review platform integrated with a REST API. Implements secure authentication and efficient API request handling.  
+
+## 🔹 Features  
+- **JWT-Based Authentication** – Ensures secure user sessions with token-based authentication  
+- **REST API Integration** – Fetches and manages book data dynamically  
+- **Asynchronous Processing** – Utilizes Promises, Callbacks, and Async-Await for efficient API request handling  
+- **Testing & Reliability** – Application tested to ensure stability and robustness  
+
+---
